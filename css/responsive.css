@@ -67,6 +67,6 @@
 
   }
   #navbar nav a {
-    display: hidden;
+    display: none;
   }
 }
