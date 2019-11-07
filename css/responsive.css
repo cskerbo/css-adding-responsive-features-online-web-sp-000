@@ -70,4 +70,7 @@
   #navbar nav a {
     display: none;
   }
+  div#logo h2 {
+    display: none;
+  }
 }
