@@ -22,7 +22,7 @@
   #social {
     width: 72px, auto, auto, auto;
   }
-  .col p {
+  .col-3 p {
     -moz-column-count: 1;
     -webkit-column-count: 1;
     column-count: 1;
